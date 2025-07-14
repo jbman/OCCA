@@ -1,2 +1,0 @@
-# OCCA
-Created with CodeSandbox
